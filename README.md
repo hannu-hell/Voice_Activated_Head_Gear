@@ -1,2 +1,2 @@
 # Voice_Activated_Head_Gear
-Personal Assistant head gear
+3D Model STL files for Personal Assistant head gear.
